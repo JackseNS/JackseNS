@@ -1,4 +1,5 @@
 ### Prazer,sou o Jackse Nogueira :blush:
+<img src="https://linkedin.com/in/jackse-nogueira-da-silva-64b5891a9.svg" width="40" height="40"/>
 
 * Estudante de Ciência de Dados
 * Estudante de Programação
