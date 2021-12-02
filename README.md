@@ -13,6 +13,7 @@
  <a href = "jacksonjackse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://api.whatsapp.com/send?phone=559182264804&text=Olá,sou o Jackse"><img src="https://img.shields.io/badge/WhatsAPP-%23E4405?style=for-the-badge&logo=WHATSAPP&logoColor=white"
 target="_blank"></a>
+ 
  </div>
 
   </span>
