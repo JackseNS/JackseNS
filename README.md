@@ -1,4 +1,4 @@
-### Prazer,sou o Jackse Nogueira :blush:
+### Prazer,sou o Jackse :blush:
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
