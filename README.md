@@ -50,8 +50,14 @@
 * Controle de Qualidade/Controle de Processos
 * Previsões Estatísticas
 * Inferência Estatística
+* Big Data
+
+<div>
 	
 ![Snake animation](https://github.com/JackseNS/JackseNS/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/jacksens/jacksens/blob/output/github-contribution-grid-snake.svg)	
+![Snake animation](https://github.com/JackseNS/JackseNS/raw/output/github-contribution-grid-snake.svg)	
+![Snake animation](https://github.com/jacksens/jacksens/raw/output/github-contribution-grid-snake.svg)	
+</div> 
 
  
