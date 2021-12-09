@@ -42,6 +42,14 @@
 
 </span >
 
+## Áreas de Estudo:
+
+* Data Science
+* Programação
+* Estatistíca
+* Controle de Qualidade/Controle de Processos
+* Previsões Estatísticas
+* Inferência Estatística
 	
 ![Snake animation](https://github.com/JackseNS/JackseNS/blob/output/github-contribution-grid-snake.svg)
 
