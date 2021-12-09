@@ -39,7 +39,11 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-FFDC00?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>  
-
+<div align="center">
+  <a href="https://github.com/annaterceiro">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jacksens&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksens&layout=compact&langs_count=7&theme=react"/>
+</div>
 </span >
 
 ## Áreas de Estudo:
