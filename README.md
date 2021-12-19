@@ -63,6 +63,7 @@
 * Controle de Qualidade/Controle de Processos
 * Previsões Estatísticas
 * Inferência Estatística
+* Probabilidade Estatística
 * Big Data
 
 ## Experiência Profissional 
