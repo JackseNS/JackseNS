@@ -25,7 +25,7 @@
 
 </br>
 
-* Estatística - UFPA
+* Estatística - UFPA 
 * 8 semestre
 * 21 anos
 
