@@ -25,11 +25,10 @@
 
 </br>
 
-* Estatística - UFPA 
-* 8 semestre
-* 21 anos
+* Estatística - UFPA
+* 23 anos
 
- Estudante de Estatística na UFPA - Universidade Federal do Pará atualmente no 8 semetre em conclusão focado nas áreas de Inferência Estatística,Controle de Qualidade e Previsão em Séries Temporais. Busco focar nas áreas de Data Science e Programação, com estudos téoricos e pratícos em diversas aplicações no meu dia-dia .
+ Bacharel em Estatística na UFPA - Universidade Federal do Pará focado nas áreas de Inferência Estatística e Previsão em Séries Temporais. Busco focar nas áreas de Data Science e Programação, com estudos téoricos e pratícos em diversas aplicações no meu dia-dia .
  
 ## Ferramentas
 
@@ -70,3 +69,4 @@
 
 * LASIG - Laboratório de Sistema de Informação e Georreferenciamento
 * SEFA/PA - Secretaria de Estado da Fazenda do Pará
+* PMPA - Polícia Mimitar do Pará
